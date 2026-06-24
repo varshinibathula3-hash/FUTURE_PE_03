@@ -1,7 +1,7 @@
 <div align="center">
 
 🦷 AI SEO Blog & Content Cluster Generator
-📍 Dental Clinic in Bangalore
+📍 Dental Clinic in Warangal
 
 🚀 AI-Powered SEO Content Strategy using Prompt Engineering
 
